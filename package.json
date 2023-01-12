@@ -1,5 +1,5 @@
 {
-    "name": "Elaina-BOT",
+    "name": "FanzBotzz",
     "version": "3.5.0",
     "description": "RPG BOT Whatsapp",
     "main": "index.js",
@@ -11,7 +11,7 @@
     }, 
     "scripts": {
         "start": "node index.js",
-        "test": "node test.js",
+        "test": "node index.js",
         "test2": "nodemon index.js"
     },
     "keywords": [
