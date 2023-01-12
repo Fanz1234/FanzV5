@@ -2,7 +2,7 @@
   "name": "Fanz",
   "version": "1.0.0",
   "description": "<p align=\"center\"> <img src=\"https://telegra.ph/file/e83ba3c272120b6b3ed05.jpg\" alt=\"FanzBotzz\" width=\"500\"/>",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "directories": {
     "lib": "lib",
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "node main.js",
     "test2": "node index.js"
   },
   "keywords": [
